@@ -1,0 +1,5 @@
+/logs/
+/build/output/
+/.idea/
+/intellij.agent.iml
+/build/script.iml
